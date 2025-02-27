@@ -20,7 +20,7 @@ Este projeto consiste em um sistema de agendamento de horários para barbearias,
 ### Frontend:
 - **Angular 16**
 - **HTML, CSS, TypeScript**
-- **Bootstrap** (ou outra biblioteca de UI de sua escolha)
+- **Bootstrap**
 
 ## Como Rodar o Backend
 
