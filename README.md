@@ -15,7 +15,7 @@ Este projeto consiste em um sistema de agendamento de horários para barbearias,
 - **Java 17**
 - **Spring Boot 3**
 - **JPA (Java Persistence API)**
-- **H2 Database** (ou qualquer outro banco de sua escolha)
+- **SQL** 
 
 ### Frontend:
 - **Angular 16**
